@@ -11,6 +11,8 @@ home_single = .250
 # def visiting_inning(finning):
   # return print("It's the top of inning number " + str(finning))
 
+# new comment
+
 def visiting_inning():
   if play < visiting_single:
     return print("HIT")
